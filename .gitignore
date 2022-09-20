@@ -1,0 +1,11 @@
+*.obj
+*.ilk
+*.recipe
+*.log
+*.idb
+*.pdb
+*.lastbuildstate
+*.tlog
+*.suo
+*.db
+Project1/.vs/
