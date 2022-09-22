@@ -9,3 +9,5 @@
 *.suo
 *.db
 Project1/.vs/
+*.filters
+*.user
